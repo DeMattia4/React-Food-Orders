@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/b2683d10-5d02-41da-ae37-6d46a745489c/resourceGroups/rq-qdx-rco-react-playground-poc-eastus2/providers/Microsoft.Web/sites/food-orders-react",
+  "appService.deploySubpath": "build"
+}
